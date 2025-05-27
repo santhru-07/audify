@@ -8,7 +8,7 @@ class Bottomscreen2 extends StatefulWidget {
   const Bottomscreen2({super.key});
   @override
   State<Bottomscreen2> createState() => _Bottomscreen2State();
-}
+} 
 
 class _Bottomscreen2State extends State<Bottomscreen2> {
   int _currentindexes = 0;
